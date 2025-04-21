@@ -1,0 +1,8 @@
+langchain>=0.2.0
+langchain-ollama
+ollama
+duckduckgo-search>=4.4
+beautifulsoup4
+tqdm
+python-docx
+python-dotenv
